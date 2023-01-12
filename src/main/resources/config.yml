@@ -1,0 +1,8 @@
+reportsystem:
+  howtouse: "&d/report <player> <reason>"
+  playernotonline: "&cPlayer not online"
+  selfreport: "&cI report you... but Why"
+  playerreported: "&cPlayer reported"
+  reported: "&cReported"
+  whoreported: "&cWho reported"
+  reason: "&cReason:"

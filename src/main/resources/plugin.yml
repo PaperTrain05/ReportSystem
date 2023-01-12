@@ -1,0 +1,7 @@
+name: ReportSystem
+version: '${project.version}'
+main: io.paper.report.Main
+api-version: 1.8
+commands:
+  report:
+    description: Report command
